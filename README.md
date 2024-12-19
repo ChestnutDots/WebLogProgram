@@ -1,6 +1,6 @@
 # WebLogProgram
 
-This Program was created as a part of the online course provided by the Duke University: Java Programming and Software Engineering Fundamentals, Copyright by O. Astrachan, R. Duvall, A. Hilton, and S. Rodger.
+This Program was created as a part of the online course provided by the Duke University: Java Programming and Software Engineering Fundamentals, Apache Licence 2.0, Copyright by O. Astrachan, R. Duvall, A. Hilton, and S. Rodger. Additionally, Apache Commons CSV package was used, Apache Licence 2.0, Copyright held by The Apache Software Foundation.
 
 Analyze access to website from log entries.
 
