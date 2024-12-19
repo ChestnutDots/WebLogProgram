@@ -1,5 +1,8 @@
 # WebLogProgram
- Analyze access to website from log entries.
+
+This Program was created as a part of the online course provided by the Duke University: Java Programming and Software Engineering Fundamentals, Copyright by O. Astrachan, R. Duvall, A. Hilton, and S. Rodger.
+
+Analyze access to website from log entries.
 
 Access to websites are read in from an example text file using LogEntry. They are parsed to
 extract the contents using WebLogParser. This allows access to IP addresses, access time and date
